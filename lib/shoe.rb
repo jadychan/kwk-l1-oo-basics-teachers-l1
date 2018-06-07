@@ -1,3 +1,5 @@
 # Make your shoe class here!
-class Shoe 
-end 
+class Shoe
+
+end
+Shoe.new("Nike")
