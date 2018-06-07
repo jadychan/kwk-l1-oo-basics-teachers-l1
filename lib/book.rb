@@ -11,6 +11,7 @@ class Book
     @title
   end
 
+  #setter for author
   def author=(author)
     @author = author
   end
